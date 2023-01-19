@@ -11,7 +11,6 @@ class Drive
         detect();
         void sync(char usb);
         void kCopy(string file, string name);
-        void replicateTo_UBS_Storage(string exe);
         virtual ~Drive();
 
     protected:

@@ -3,6 +3,7 @@
 #include <string>
 #include "Drive.h"
 //#include "notif.h"
+#include"config.h"
 
 #include <tchar.h>
 #include <unistd.h>
@@ -76,14 +77,11 @@ using namespace std;
 
 int main()
 {
-
-
-
-
-
     Drive d;
     d.detect();
 //    d.sync('G');
 //    notif();
+
+    config();
     return 0;
 }
