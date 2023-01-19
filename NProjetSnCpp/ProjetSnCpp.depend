@@ -1,0 +1,72 @@
+# depslib dependency file v1.0
+1673971192 source:c:\users\user\documents\junior\projetsncpp\main.cpp
+	<iostream>
+	<filesystem>
+	<string>
+	"Drive.h"
+	<tchar.h>
+	<unistd.h>
+	<cstdlib>
+	<sys/types.h>
+	<sys/stat.h>
+	<strsafe.h>
+	"resource.h"
+	<windows.h>
+
+1673972697 source:c:\users\user\documents\junior\projetsncpp\src\drive.cpp
+	<iostream>
+	<windows.h>
+	<filesystem>
+	<fstream>
+	<string>
+	"Drive.h"
+
+1673972460 c:\users\user\documents\junior\projetsncpp\include\drive.h
+	<windows.h>
+	<string>
+
+1673969907 c:\users\user\documents\junior\projetsncpp\notif.h
+	<iostream>
+	<filesystem>
+	<string>
+	<tchar.h>
+	<unistd.h>
+	<cstdlib>
+	<sys/types.h>
+	<sys/stat.h>
+	<strsafe.h>
+	"resource.h"
+	<windows.h>
+
+1673968648 c:\users\user\documents\junior\projetsncpp\resource.h
+
+1673969244 source:c:\users\user\documents\junior\projetsncpp\projetsncpp.rc
+
+1674047316 source:c:\users\nancy skm\desktop\projetsncpp\main.cpp
+	<iostream>
+	<filesystem>
+	<string>
+	"Drive.h"
+	<tchar.h>
+	<unistd.h>
+	<cstdlib>
+	<sys/types.h>
+	<sys/stat.h>
+	<strsafe.h>
+	"resource.h"
+	<windows.h>
+
+1674047317 c:\users\nancy skm\desktop\projetsncpp\include\drive.h
+	<windows.h>
+	<string>
+
+1674047317 c:\users\nancy skm\desktop\projetsncpp\resource.h
+
+1674051212 source:c:\users\nancy skm\desktop\projetsncpp\src\drive.cpp
+	<iostream>
+	<windows.h>
+	<filesystem>
+	<fstream>
+	<string>
+	"Drive.h"
+
